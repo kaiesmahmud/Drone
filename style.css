@@ -1,10 +1,9 @@
 *{
     margin: 0;
     padding: 0;
-
 }
 body{
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     position: relative;
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(drone-img/animateBG.jpg);
